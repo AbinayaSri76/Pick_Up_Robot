@@ -1,3 +1,9 @@
+// Tilt Detection Using Accelerometer
+// Vcc -> 5V
+// GND -> GND
+// xpin -> A0
+// ypin -> A1
+// zpin -> A2 [Optional]
 const int xpin = A0;
 const int ypin = A1;
 //const int zpin = A2;
