@@ -3,7 +3,10 @@
 
 *Gestures provide a rich and intuitive form of interaction with the robotic system.*
 
-With the help of an obstacle avoiding, hand-gesture controlled, pick and place robot, we reduce the manual work of picking up the clutter in a room - be it our homes, workspaces or public places.
+Gestures have been a prime source of communication since time immemorial. We have sought to improve the interaction from humans to robots through some basic hand gestures which will control the movement of the robot – both arm and wheel movements.
+
+We have aimed for obstacle avoidance – both intentional and unintentional. Using these properties of obstacle avoidance and motion control, the Pick-Up robot can be used to clear the clutter in a room – be it our homes, workspaces, schools or public places.
+
 
 ## Description
 
